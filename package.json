@@ -73,7 +73,7 @@
     "oxlint": "^1.80.0",
     "simple-git-hooks": "^2.14.0",
     "ts-morph": "^28.0.0",
-    "tsx": "^4.23.12",
+    "tsx": "^4.23.13",
     "type-fest": "^5.8.0",
     "typescript": "^7.0.2",
     "vite": "^8.2.2",
